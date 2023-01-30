@@ -1,0 +1,23 @@
+{
+  "name": "paypal",
+  "description": "PayPal's secure and open payment gateway. Is now available in adalo to make your payments easier and more secure, Just simply drag and drop paypal payment gateway component in your desired application and you are good to go.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "WAdalo",
+  "scripts": {
+    "start": "adalo dev",
+    "login": "adalo login",
+    "publish": "adalo publish"
+  },
+  "devDependencies": {
+    "@adalo/cli": "0.0.55",
+    "react": "^16.14.0",
+    "react-art": "^16.13.1",
+    "react-dom": "^16.14.0",
+    "react-native-web": "^0.9.13"
+  },
+  "dependencies": {
+    "@paypal/react-paypal-js": "^7.8.2"
+  }
+}

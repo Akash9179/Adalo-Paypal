@@ -1,0 +1,13 @@
+{
+  "displayName": "Paypal",
+  "components": [
+    {
+      "name": "PaypalGateway",
+      "manifest": "./src/components/PaypalGateway/manifest.json"
+    }
+  ],
+  "author": "WAdalo",
+  "description": "PayPal's secure and open payment gateway. Is now available in adalo to make your payments easier and more secure, Just simply drag and drop paypal payment gateway component in your desired application and you are good to go.",
+  "logo": "./logo.png",
+  "price": 20
+}
